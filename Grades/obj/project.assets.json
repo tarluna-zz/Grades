@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tarluna/Dropbox/Projects/Studies/Grades/Grades/Grades.csproj",
+      "projectUniqueName": "/Users/tarluna/Documents/Projects/C#/Grades/Grades/Grades.csproj",
       "projectName": "Grades",
-      "projectPath": "/Users/tarluna/Dropbox/Projects/Studies/Grades/Grades/Grades.csproj",
+      "projectPath": "/Users/tarluna/Documents/Projects/C#/Grades/Grades/Grades.csproj",
       "packagesPath": "/Users/tarluna/.nuget/packages/",
-      "outputPath": "/Users/tarluna/Dropbox/Projects/Studies/Grades/Grades/obj/",
+      "outputPath": "/Users/tarluna/Documents/Projects/C#/Grades/Grades/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

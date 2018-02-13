@@ -5738,11 +5738,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tarluna/Dropbox/Projects/Studies/Grades/Grades.Test/Grades.Test.csproj",
+      "projectUniqueName": "/Users/tarluna/Documents/Projects/C#/Grades/Grades.Test/Grades.Test.csproj",
       "projectName": "Grades.Test",
-      "projectPath": "/Users/tarluna/Dropbox/Projects/Studies/Grades/Grades.Test/Grades.Test.csproj",
+      "projectPath": "/Users/tarluna/Documents/Projects/C#/Grades/Grades.Test/Grades.Test.csproj",
       "packagesPath": "/Users/tarluna/.nuget/packages/",
-      "outputPath": "/Users/tarluna/Dropbox/Projects/Studies/Grades/Grades.Test/obj/",
+      "outputPath": "/Users/tarluna/Documents/Projects/C#/Grades/Grades.Test/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -5759,8 +5759,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "/Users/tarluna/Dropbox/Projects/Studies/Grades/Grades/Grades.csproj": {
-              "projectPath": "/Users/tarluna/Dropbox/Projects/Studies/Grades/Grades/Grades.csproj"
+            "/Users/tarluna/Documents/Projects/C#/Grades/Grades/Grades.csproj": {
+              "projectPath": "/Users/tarluna/Documents/Projects/C#/Grades/Grades/Grades.csproj"
             }
           }
         }
